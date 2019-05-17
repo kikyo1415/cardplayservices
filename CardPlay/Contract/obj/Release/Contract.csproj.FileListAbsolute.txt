@@ -1,0 +1,4 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Contract\bin\Release\PokerCardPlay.Contract.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Contract\bin\Release\PokerCardPlay.Contract.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Contract\obj\Release\PokerCardPlay.Contract.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Contract\obj\Release\PokerCardPlay.Contract.pdb

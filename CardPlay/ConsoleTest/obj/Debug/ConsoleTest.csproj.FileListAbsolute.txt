@@ -1,0 +1,13 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\ConsoleTest.exe
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\ConsoleTest.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\obj\Debug\ConsoleTest.exe
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\obj\Debug\ConsoleTest.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\SCRIPT.xlsx
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\rzmd.xlsx
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\Newtonsoft.Json.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\Newtonsoft.Json.xml
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\PokerCardPlay.Contract.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\PokerCardPlay.Net.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\PokerCardPlay.Contract.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\ConsoleTest\bin\Debug\PokerCardPlay.Net.pdb

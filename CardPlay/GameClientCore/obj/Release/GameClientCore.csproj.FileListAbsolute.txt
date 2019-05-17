@@ -1,0 +1,9 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\GameClientCore\bin\Release\GameClientCore.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\GameClientCore\bin\Release\GameClientCore.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\GameClientCore\bin\Release\PokerCardPlay.Contract.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\GameClientCore\bin\Release\PokerCardPlay.Contract.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\GameClientCore\obj\Release\GameClientCore.csprojResolveAssemblyReference.cache
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\GameClientCore\obj\Release\GameClientCore.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\GameClientCore\obj\Release\GameClientCore.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\GameClientCore\obj\Release\GameClientCore.dll.mdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\GameClientCore\bin\Release\GameClientCore.dll.mdb

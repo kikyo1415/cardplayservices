@@ -1,0 +1,7 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Core\bin\Release\PokerCardPlay.Core.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Core\bin\Release\PokerCardPlay.Core.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Core\bin\Release\Newtonsoft.Json.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Core\bin\Release\Newtonsoft.Json.xml
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Core\obj\Release\PokerCardPlay.Core.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Core\obj\Release\PokerCardPlay.Core.pdb

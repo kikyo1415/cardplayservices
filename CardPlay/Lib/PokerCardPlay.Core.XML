@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PokerCardPlay.Core</name>
+    </assembly>
+    <members>
+        <member name="M:PokerCardPlay.Core.CommonExtensions.GetDescription(System.Enum,System.Boolean)">
+            <summary>
+            扩展方法，获得枚举的Description
+            </summary>
+            <param name="value">枚举值</param>
+            <param name="nameInstend">当枚举没有定义DescriptionAttribute,是否用枚举名代替，默认使用</param>
+            <returns>枚举的Description</returns>
+        </member>
+        <member name="T:PokerCardPlay.Core.JSONSerilizer">
+            <summary>
+            JSON序列化工具类。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.JSONSerilizer.ToJSON(System.Object)">
+            <summary>
+            将对象实体转换为JSON字符串。
+            </summary>
+            <param name="source">需要转换的对象实体。</param>
+            <returns>转换后的JSON字符串。</returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.JSONSerilizer.ToObject``1(System.String)">
+            <summary>
+            将JSON字符串转换为指定类型的实体。
+            </summary>
+            <typeparam name="T">实体指定需要转换到的类型。</typeparam>
+            <param name="source">JSON字符串。</param>
+            <returns>形参<see cref="!:T"/>指定类型的实体。</returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.JSONSerilizer.ToObject(System.Type,System.String)">
+            <summary>
+            将JSON字符串转换为指定类型的实体。
+            </summary>
+            <param name="type">实体指定需要转换到的类型。</param>
+            <param name="source">JSON字符串。</param>
+            <returns>Object</returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.JSONSerilizer.ToXmlString(System.String)">
+            <summary>
+            将JSON字符串转换为的XML字符串。
+            </summary>
+            <param name="source">JSON字符串。</param>
+            <returns>XML字符串。</returns>
+        </member>
+        <member name="T:PokerCardPlay.Core.GameRoom">
+            <summary>
+            游戏房间类
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.GameRoom.PlayerGetJoin(System.Guid)">
+            <summary>
+            Get join.
+            </summary>
+            <param name="playerId">playerId</param>
+            <returns>Is players full</returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.GameRoom.PlayerGetReady(System.Guid)">
+            <summary>
+            Get ready
+            </summary>
+            <param name="playerId">playerId</param>
+            <returns>Is all ready</returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.GameRoomManager.GetRoomByPlayerId(System.Guid)">
+            <summary>
+            获取玩家所在房间。
+            </summary>
+            <param name="playerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.PokerCard.ToString">
+            <summary>
+            返回牌面描述字符串。
+            </summary>
+            <returns>牌面描述字符串。</returns>
+        </member>
+        <member name="P:PokerCardPlay.Core.PokerCard.SuitKind">
+            <summary>
+            牌面花色。
+            </summary>
+        </member>
+        <member name="P:PokerCardPlay.Core.PokerCard.Point">
+            <summary>
+            牌面点数。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.IPlayer.GiveCard(PokerCardPlay.Core.PokerCard)">
+            <summary>
+            
+            </summary>
+            <param name="card"></param>
+        </member>
+        <member name="M:PokerCardPlay.Core.IPlayer.GetCards">
+            <summary>
+            获取牌手的所有手牌。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.IPlayer.GetJettonsCount">
+            <summary>
+            获取牌手的筹码数。
+            </summary>
+            <returns>筹码数。</returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.IPlayer.GainJettons(System.Int32)">
+            <summary>
+            赢得筹码。
+            </summary>
+            <param name="jettons">筹码数。</param>
+        </member>
+        <member name="M:PokerCardPlay.Core.IPlayer.LostJettons(System.Int32)">
+            <summary>
+            输掉筹码。
+            </summary>
+            <returns>筹码数。</returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.IPlayer.ConvertToBanker">
+            <summary>
+            转换为庄家。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.IPlayer.ConvertToPlayer">
+            <summary>
+            转换为闲家。
+            </summary>
+        </member>
+        <member name="P:PokerCardPlay.Core.IPlayer.ID">
+            <summary>
+            ID。
+            </summary>
+        </member>
+        <member name="T:PokerCardPlay.Core.IPokerPlayer">
+            <summary>
+            闲家接口。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.IPokerPlayer.Bet(System.Int64)">
+            <summary>
+            下注。
+            </summary>
+            <param name="jettons">筹码数。</param>
+        </member>
+        <member name="F:PokerCardPlay.Core.BetStyle.HalfOfCurrentPot">
+            <summary>
+            劈。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.BetStyle.HalfOfTotalPot">
+            <summary>
+            总劈。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.BetStyle.LeaveOfCurrentPot">
+            <summary>
+            余。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.BetStyle.LeaveOfTotalPot">
+            <summary>
+            总余。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.BetStyle.AllOfCurrentPot">
+            <summary>
+            打坛底。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.BetStyle.AllOfTotalPot">
+            <summary>
+            总打。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.BetStyle.Cardinal">
+            <summary>
+            基数。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.BetStyle.Custom">
+            <summary>
+            活注。
+            </summary>
+        </member>
+        <member name="T:PokerCardPlay.Core.PokerGameMatch">
+            <summary>
+            牌局一次比赛。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.PokerGameMatch.Account(PokerCardPlay.Core.IPlayer)">
+            <summary>
+            结算
+            </summary>
+            <param name="player"></param>
+        </member>
+        <member name="F:PokerCardPlay.Core.GameScoreBoard.potJettons">
+            <summary>
+            实时奖池（每次结算变化）。
+            </summary>
+        </member>
+        <member name="P:PokerCardPlay.Core.GameScoreBoard.OnBettingPotJettons">
+            <summary>
+            下注时奖池（仅每局变化）。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.GameRound.Deal(System.Collections.Generic.List{PokerCardPlay.Core.IPlayer})">
+            <summary>
+            向玩家发牌。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.GameRound.HeadsUp(PokerCardPlay.Core.IPlayer,PokerCardPlay.Core.IPlayer,System.Boolean@)">
+            <summary>
+            庄家与闲家对决。
+            </summary>
+            <returns>true：庄家赢，false：闲家赢。</returns>
+        </member>
+        <member name="T:PokerCardPlay.Core.PokerGameRound">
+            <summary>
+            牌局一回合。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.PokerGameRound.Deal">
+            <summary>
+            发牌。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.PokerGameRound.PlayerBet(PokerCardPlay.Core.IPokerPlayer,System.Int32)">
+            <summary>
+            闲家下注。
+            </summary>
+            <param name="player"></param>
+            <param name="betJettons"></param>
+        </member>
+        <member name="M:PokerCardPlay.Core.PokerGameRound.HeadsUp(PokerCardPlay.Core.IPokerPlayer,System.Boolean@)">
+            <summary>
+            庄家与闲家对决。
+            </summary>
+            <returns>true：庄家赢，false：闲家赢。</returns>
+        </member>
+        <member name="T:PokerCardPlay.Core.PokerGameRoundState">
+            <summary>
+            一圈牌的状态。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.PokerGameRoundState.Dealing">
+            <summary>
+            发牌阶段。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.PokerGameRoundState.Betting">
+            <summary>
+            下注阶段。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.PokerGameRoundState.Accounting">
+            <summary>
+            结算阶段。
+            </summary>
+        </member>
+        <member name="F:PokerCardPlay.Core.PokerGameRoundState.End">
+            <summary>
+            结束。
+            </summary>
+        </member>
+        <member name="T:PokerCardPlay.Core.XmlSerilzerTool">
+            <summary>
+            XML序列化工具。
+            </summary>
+        </member>
+        <member name="M:PokerCardPlay.Core.XmlSerilzerTool.Serializer(System.Object,System.Boolean)">
+            <summary>
+            将对象序列化成 Xml 字符串。
+            </summary>
+            <param name="source">要序列化成 Xml 字符串的对象实例。</param>
+            <param name="containsDeclaration">指定是否包含文档声明及命名空间声明。</param>
+            <returns>表示对象信息的 Xml 字符串。</returns>
+        </member>
+        <member name="M:PokerCardPlay.Core.XmlSerilzerTool.Deserialize``1(System.String)">
+            <summary>
+            反序列化指定的 XML 字符串。
+            </summary>
+            <typeparam name="T">反序列化后的对象的类型。</typeparam>
+            <param name="xml">包含要反序列化的 XML 文档。</param>
+            <returns>正被反序列化的 <typeparamref name="T"/> 的对象实例。</returns>
+            <exception cref="T:System.InvalidOperationException">反序列化期间发生错误。使用 <see cref="P:System.Exception.InnerException"/> 属性时可使用原始异常。</exception>
+        </member>
+        <member name="M:PokerCardPlay.Core.XmlSerilzerTool.Deserialize(System.Type,System.String)">
+            <summary>
+            反序列化指定的 XML 字符串。
+            </summary>
+            <param name="type">反序列化后的对象的类型。</param>
+            <param name="xml">包含要反序列化的 XML 文档。</param>
+            <returns>正被反序列化的 <see cref="T:System.Object">System.Object</see>。</returns>
+            <exception cref="T:System.InvalidOperationException">反序列化期间发生错误。使用 <see cref="P:System.Exception.InnerException"/> 属性时可使用原始异常。</exception>
+        </member>
+    </members>
+</doc>

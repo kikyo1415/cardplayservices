@@ -1,0 +1,5 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Lib\PokerCardPlay.Contract.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Lib\PokerCardPlay.Contract.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Contract\obj\Debug\PokerCardPlay.Contract.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Contract\obj\Debug\PokerCardPlay.Contract.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache

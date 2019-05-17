@@ -1,0 +1,5 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\SocketTestConsole\bin\Release\SocketTestConsole.exe
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\SocketTestConsole\bin\Release\SocketTestConsole.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\SocketTestConsole\obj\Release\SocketTestConsole.csprojResolveAssemblyReference.cache
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\SocketTestConsole\obj\Release\SocketTestConsole.exe
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\SocketTestConsole\obj\Release\SocketTestConsole.pdb

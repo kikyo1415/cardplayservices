@@ -1,0 +1,5 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Net\bin\Release\PokerCardPlay.Net.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Net\bin\Release\PokerCardPlay.Net.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Net\obj\Release\Net.csprojResolveAssemblyReference.cache
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Net\obj\Release\PokerCardPlay.Net.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\Net\obj\Release\PokerCardPlay.Net.pdb

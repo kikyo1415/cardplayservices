@@ -1,0 +1,11 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\bin\Release\PokerCardPlay.GameService.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\bin\Release\PokerCardPlay.GameService.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\bin\Release\PokerCardPlay.Contract.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\bin\Release\PokerCardPlay.Core.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\bin\Release\Newtonsoft.Json.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\bin\Release\PokerCardPlay.Contract.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\bin\Release\PokerCardPlay.Core.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\bin\Release\Newtonsoft.Json.xml
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\obj\Release\PokerGameService.csprojResolveAssemblyReference.cache
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\obj\Release\PokerCardPlay.GameService.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\PokerGameService\obj\Release\PokerCardPlay.GameService.pdb

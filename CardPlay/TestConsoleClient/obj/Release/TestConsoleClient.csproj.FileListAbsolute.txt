@@ -1,0 +1,13 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\obj\Release\TestConsoleClient.csprojResolveAssemblyReference.cache
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\TestConsoleClient.exe.config
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\TestConsoleClient.exe
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\TestConsoleClient.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\PokerCardPlay.Contract.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\PokerCardPlay.Core.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\System.ServiceModel.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\Newtonsoft.Json.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\PokerCardPlay.Contract.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\PokerCardPlay.Core.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\bin\Release\Newtonsoft.Json.xml
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\obj\Release\TestConsoleClient.exe
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestConsoleClient\obj\Release\TestConsoleClient.pdb

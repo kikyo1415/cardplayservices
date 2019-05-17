@@ -1,0 +1,14 @@
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\bin\Release\TestAndroidClient.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\bin\Release\TestAndroidClient.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\bin\Release\TestAndroidClient.TestAndroidClient.apk
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\bin\Release\TestAndroidClient.TestAndroidClient-Signed.apk
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\obj\Release\TestAndroidClient.dll
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\obj\Release\TestAndroidClient.pdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\obj\Release\android\bin\TestAndroidClient.TestAndroidClient.apk
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\obj\Release\res\layout\main.xml
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\obj\Release\res\values\strings.xml
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\obj\Release\res\drawable\icon.png
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\obj\Release\R.cs.flag
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\obj\Release\uploadflags.txt
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\obj\Release\TestAndroidClient.dll.mdb
+F:\软件工程项目\chenghang\棋牌项目\SourceCode\CardPlay\TestAndroidClient\bin\Release\TestAndroidClient.dll.mdb

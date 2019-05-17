@@ -1,0 +1,4 @@
+TestAndroidClient.MainActivity, TestAndroidClient;md5cf736847f0f2fbcec2dd06734fc22ce6.MainActivity
+TestAndroidClient.MainActivity, TestAndroidClient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cf736847f0f2fbcec2dd06734fc22ce6.MainActivity
+TestAndroidClient.MainActivity;md5cf736847f0f2fbcec2dd06734fc22ce6.MainActivity
+testandroidclient.MainActivity;md5cf736847f0f2fbcec2dd06734fc22ce6.MainActivity
